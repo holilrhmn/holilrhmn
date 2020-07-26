@@ -1,6 +1,6 @@
 # 🖥Junior Web Developer
 
-Hi, I'm Holilurrahman, a passionate web developer from Indonesia Flag:Indonesia ID
+Hi, I'm Holilurrahman, a passionate web developer from Indonesia.
 
 ## I am passionate about:
 
