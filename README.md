@@ -1,6 +1,6 @@
 # 🖥Junior Web Developer
 
-Hi, I'm Holilurrahman, a passionate web developer from Indonesia 🇮🇩.
+Hi, I'm Holilurrahman, a passionate web developer from Indonesia Flag:Indonesia ID
 
 ## I am passionate about:
 
@@ -13,7 +13,7 @@ Hi, I'm Holilurrahman, a passionate web developer from Indonesia 🇮🇩.
 <img src="https://img.shields.io/badge/CSS3-44b2fb" />
 <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/Vue -41b883" />
-<img src="https://img.shields.io/badge/ReactJS -30a8fe" />
+<img src="https://img.shields.io/badge/ReactJS -61DBFB"/>
  <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
 <img src="https://img.shields.io/badge/PHP -787CB5" />
  <img src="https://img.shields.io/badge/Laravel -F05340" /> 
@@ -40,6 +40,7 @@ Hi, I'm Holilurrahman, a passionate web developer from Indonesia 🇮🇩.
 </details>
 </br>
 </br>
+
 <a href="https://s7.gifyu.com/images/CV-Terbaru.png"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="https://www.linkedin.com/in/holilur-r-8262b313a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/holilrhmn/?hl=id"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
