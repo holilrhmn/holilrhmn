@@ -1,10 +1,10 @@
-# 🖥Junior Web Developer
+# Junior Web Developer 🖥
 
 Hi, I'm Holilurrahman, a passionate web developer from Indonesia.
 
 ## I am passionate about:
 
-- Web Develpoment
+- Web Development
 - Graphics Designing
 
 ## Skills
