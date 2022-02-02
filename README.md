@@ -5,7 +5,7 @@ Hi, I'm Holilurrahman, a passionate web developer from Indonesia.
 ## I am passionate about:
 
 - Web Development
-- Graphics Designing
+
 
 ## Skills
 
